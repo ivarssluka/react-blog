@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Lorizzle ipsizzle dolor yippiyo amet, pimpin' adipiscing own yo'. Nullam away velizzle, ma nizzle volutpizzle, owned quis, gravida vel, arcu. Pellentesque mammasay mammasa mamma oo sa tortor.",
+            "author": "Mario",
+            "id": 1
+        },
+        {
+            "title": "West coast lorem",
+            "body": "Lorizzle ipsizzle dolor yippiyo amet, pimpin' adipiscing own yo'. Nullam away velizzle, ma nizzle volutpizzle, owned quis, gravida vel, arcu. Pellentesque mammasay mammasa mamma oo sa tortor.",
+            "author": "Luigi",
+            "id": 2
+        },
+        {
+            "title": "Bowser's Blog",
+            "body": "Lorizzle ipsizzle dolor yypsy amet, pimpin' adipiscing own yo'. Nullam away velizzle, ma nizzle volutpizzle, owned quis, gravida vel, arcu. Pellentesque mammasay mammasa mamma oo sa tortor.",
+            "author": "Bowser",
+            "id": 3
+        }
+    ]
+}
